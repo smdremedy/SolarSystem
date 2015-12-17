@@ -1,0 +1,61 @@
+<p><b>Phoebe</b> (<span><span>/<span><span title="/ˈ/ primary stress follows">ˈ</span><span title="'f' in 'find'">f</span><span title="/iː/ long 'e' in 'bead'">iː</span><span title="'b' in 'buy'">b</span><span title="/iː/ long 'e' in 'bead'">iː</span></span>/</span></span>; Greek: Ancient Greek: <span lang="grc">Φοίβη</span> <i>Phoíbē</i>) is an irregular satellite of Saturn with a mean diameter of 213 km. It was discovered by William Henry Pickering on 17 March 1899 from photographic plates that had been taken starting on 16 August 1898 at the Boyden Observatory near Arequipa, Peru, by DeLisle Stewart. It was the first satellite to be discovered photographically.</p>
+<p>Phoebe was the first target encountered upon the arrival of the <i>Cassini</i> spacecraft in the Saturn system in 2004, and is thus unusually well-studied for an irregular satellite of its size. <i>Cassini'</i>s trajectory to Saturn and time of arrival were specifically chosen to permit this flyby. After the encounter and its insertion into orbit, <i>Cassini</i> did not go much beyond the orbit of Iapetus.</p>
+<p>Phoebe is roughly spherical and has a differentiated interior. It was spherical and hot early in its history and was battered out of roundness by repeated impacts. It is thought to be a captured planetesimal from the Kuiper belt.</p>
+<p></p>
+<h2><span id="History">History</span></h2>
+<h3><span id="Discovery">Discovery</span></h3>
+<p>Phoebe was discovered by William Henry Pickering on 17 March 1899 from photographic plates that had been taken starting on 16 August 1898 at the Boyden Observatory near Arequipa, Peru, by DeLisle Stewart. It was the first satellite to be discovered photographically.</p>
+<h3><span id="Naming">Naming</span></h3>
+<p>Phoebe was named after Phoebe, a Titan in Greek mythology that was associated with the Moon. It is also designated Saturn IX in some scientific literature. The IAU nomenclature standards have stated that features on Phoebe are to be named after characters in the Greek myth of Jason and the Argonauts. In 2005, the IAU officially named 24 craters (Acastus, Admetus, Amphion, Butes, Calais, Canthus, Clytius, Erginus, Euphemus, Eurydamas, Eurytion, Eurytus, Hylas, Idmon, Iphitus, Jason, Mopsus, Nauplius, Oileus, Peleus, Phlias, Talaus, Telamon, and Zetes).</p>
+<p>Toby Owen of the University of Hawaii at Manoa, chairman of the International Astronomical Union Outer Solar System Task Group said:</p>
+<blockquote class="templatequote">
+<p>We picked the legend of the Argonauts for Phoebe as it has some resonance with the exploration of the Saturn system by Cassini–Huygens. We can't say that our participating scientists include heroes like Hercules and Atalanta, but they do represent a wide, international spectrum of outstanding people who were willing to take the risk of joining this voyage to a distant realm in hopes of bringing back a grand prize.</p>
+</blockquote>
+<h2><span id="Orbit">Orbit</span></h2>
+<p>Phoebe's orbit is retrograde, i.e. it orbits Saturn opposite to Saturn's rotation. For more than 100 years, Phoebe was Saturn's outermost known moon, until the discovery of several smaller moons in 2000. Phoebe is almost 4 times more distant from Saturn than its nearest major neighbor (Iapetus), and is substantially larger than any of the other moons orbiting planets at comparable distances.</p>
+<p>All of Saturn's regular moons except Iapetus orbit very nearly in the plane of Saturn's equator. The outer irregular satellites follow moderately to highly eccentric orbits, and none is expected to rotate synchronously as all the inner moons of Saturn do (except for Hyperion). See Saturn's satellites' families.</p>
+<h3><span id="Phoebe_ring">Phoebe ring</span></h3>
+
+
+<p>The Phoebe ring is one of the rings of Saturn. This ring is tilted 27 degrees from Saturn's equatorial plane (and the other rings). It extends from at least 128 to 207 times the radius of Saturn; Phoebe orbits the planet at an average distance of 215 Saturn radii. The ring is about 20 times as thick as the diameter of the planet. Because the ring's particles are presumed to have originated from micrometeoroid impacts on Phoebe, they should share its retrograde orbit, which is opposite to the orbital motion of the next inner moon, Iapetus. Inwardly migrating ring material would thus strike Iapetus's leading hemisphere, created its two-tone coloration. Although very large, the ring is virtually invisible—it was discovered using NASA's infrared Spitzer Space Telescope.</p>
+<h2><span id="Physical_characteristics">Physical characteristics</span></h2>
+
+
+<p>Phoebe is roughly spherical and has a diameter of <span><span>7005213000000000000♠</span>213<span>±</span>1.4 km</span> (132 mi), about one-sixteenth of that of the Moon. Phoebe rotates every nine hours 16 minutes and it completes a full orbit around Saturn in about 18 months. Its surface temperature is 75 K (−198.2 °C).</p>
+<p>Most of Saturn's inner moons have very bright surfaces, but Phoebe's albedo is very low (0.06), as dark as lampblack. The Phoebean surface is extremely heavily scarred, with craters up to 80 kilometres across, one of which has walls 16 kilometres high.</p>
+<p>Phoebe's dark coloring initially led to scientists surmising that it was a captured asteroid, as it resembled the common class of dark carbonaceous asteroids. These are chemically very primitive and are thought to be composed of original solids that condensed out of the solar nebula with little modification since then.</p>
+<p>However, images from <i>Cassini</i> indicate that Phoebe's craters show a considerable variation in brightness, which indicate the presence of large quantities of ice below a relatively thin blanket of dark surface deposits some 300 to 500 metres (980 to 1,640 ft) thick. In addition, quantities of carbon dioxide have been detected on the surface, a finding that has never been replicated for an asteroid. It is estimated that Phoebe is about 50% rock, as opposed to the 35% or so that typifies Saturn's inner moons. For these reasons, scientists are coming to think that Phoebe is in fact a captured centaur, one of a number of icy planetoids from the Kuiper belt that orbit the Sun between Jupiter and Neptune. Phoebe is the first such object to be imaged as anything other than a dot.</p>
+<p>Despite its small size, Phoebe is thought to have been a spherical body early in its history, with a differentiated interior, before solidifying and being battered into its current, slightly non-equilibrium shape.</p>
+<p>Material displaced from Phoebe's surface by microscopic meteor impacts may be responsible for the dark areas on the surface of Hyperion. Debris from the biggest impacts may have been the origin of the other moons of Phoebe's group (the Norse group)—all of which are less than 10 km in diameter.</p>
+<h3><span id="Maps">Maps</span></h3>
+
+
+
+<h2><span id="Formation">Formation</span></h2>
+<p>Phoebe formed in the Kuiper belt within three million years after the origin of the Solar System. This was early enough that sufficient radioactive material was available to collapse it into a sphere and stay warm enough to have liquid water for tens of millions of years.</p>
+<h2><span id="Observation_and_exploration">Observation and exploration</span></h2>
+
+<p>Unlike Saturn's other moons, Phoebe was not favorably placed for the <i>Voyager</i> probes. <i>Voyager 2</i> observed Phoebe for a few hours in September 1981. In the images, taken from a distance of 2.2 million kilometres at low phase angle, the size of Phoebe was approx. 11 pixels and showed bright spots on the otherwise dark surface.</p>
+<p><i>Cassini</i> passed 2,068 kilometres (1,285 mi) from Phoebe on 11 June 2004, returning many high-resolution images, which revealed a scarred surface. Because <i>Voyager 2</i> had not been able to produce any decent images of Phoebe, obtaining them was a priority for the <i>Cassini</i> mission and its flight path was deliberately designed to take it close by, otherwise <i>Cassini</i> would likely not have returned images much better than <i>Voyager'</i>s. Because of Phoebe's short rotation period of approximately 9 hours, 17 minutes, <i>Cassini</i> was able to map virtually the entire surface of Phoebe. The close flyby enabled the mass of Phoebe to be determined with an uncertainty of only 1 in 500.</p>
+<h2><span id="See_also">See also</span></h2>
+<ul><li>Moons of Saturn</li>
+<li>List of geological features on Saturn's smaller moons</li>
+</ul><h2><span id="Notes">Notes</span></h2>
+
+<h2><span id="References">References</span></h2>
+
+<h2><span id="External_links">External links</span></h2>
+
+<ul><li>Phoebe Profile at NASA's Solar System Exploration site</li>
+<li>Cassini–Huygens Multimedia: Images: Moons: Small Moons</li>
+<li><i>Cassini Pass Reveals Moon Secrets</i>, BBC News, June 14, 2004</li>
+<li>The Planetary Society: Phoebe</li>
+<li>Asaravala, A.; <i>Saturn's Odd Moon Out</i>, Wired, (May 4, 2005)</li>
+<li>NASA: Natural Satellite Physical Parameters</li>
+<li>Cassini images of Phoebe</li>
+<li>Images of Phoebe at JPL's Planetary Photojournal</li>
+<li>Movie of Phoebe's rotation from the National Oceanic and Atmospheric Administration</li>
+<li>Phoebe basemap (December 2005) from Cassini images</li>
+<li>Phoebe atlas (March 2006) from Cassini images</li>
+<li>Phoebe nomenclature from the USGS planetary nomenclature page</li>
+</ul>

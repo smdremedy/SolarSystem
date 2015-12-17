@@ -1,0 +1,39 @@
+<p><b>Miranda</b> or <b>Uranus V</b> is the smallest and innermost of Uranus's five round satellites. Like the other large moons of Uranus, Miranda orbits close to its planet's equatorial plane. Because Uranus orbits the Sun on its side, Miranda's orbit is perpendicular to the ecliptic and shares Uranus's extreme seasonal cycle. At just 470 km in diameter, Miranda is one of the smallest objects in the Solar System known to be spherical under its own gravity. Of the bodies that are known to be in hydrostatic equilibrium, only Saturn's moon Mimas is smaller.</p>
+<p>Miranda has one of the most extreme and varied topographies of any object in the Solar System, including Verona Rupes, a 5- to 10-kilometer-high scarp that is the tallest cliff in the Solar System, and chevron-shaped tectonic features called <i>coronae</i>. The origin and evolution of this varied geology, the most of any Uranian satellite, are still not fully understood, and multiple hypotheses exist regarding Miranda's formation.</p>
+<p>Miranda was discovered by Gerard Kuiper on 16 February 1948 at McDonald Observatory, and named after Miranda from William Shakespeare's play <i>The Tempest</i>.</p>
+<p>The only close-up images of Miranda are from the <i>Voyager 2</i> probe, which made observations of Miranda during its Uranus flyby in January 1986. During the flyby Miranda's southern hemisphere pointed towards the Sun, so only that part was studied.</p>
+<p></p>
+<h2><span id="Discovery_and_name">Discovery and name</span></h2>
+<p>Miranda was discovered on 16 February 1948 by planetary astronomer Gerard Kuiper using the McDonald Observatory's 82-inch (2,080 mm) Otto Struve Telescope. Its motion around Uranus was confirmed on 1 March 1948. It was the first satellite of Uranus discovered in nearly 100 years. Kuiper elected to name the object "Miranda" after the character in Shakespeare's <i>The Tempest</i>, because the four previously discovered moons of Uranus, Ariel, Umbriel, Titania and Oberon, had all been named after characters of Shakespeare or Alexander Pope. However, the previous moons had been named specifically after fairies, whereas Miranda was a human. Subsequently discovered satellites of Uranus were named after Shakespearean characters, whether fairies or not.</p>
+<h2><span id="Orbit">Orbit</span></h2>
+<p>Of Uranus's five round satellites, Miranda orbits closest to it, at roughly 129,000 km from the surface; about a quarter again as far as its most distant ring. Its orbital period is just 34 hours, and, like that of the Moon, is synchronous with its rotation period, which means it always shows the same face to Uranus, a condition known as tidal lock. Miranda's orbital inclination (4.34°) is unusually high for a body so close to its planet, and roughly ten times that of the other Uranian satellites. The reason for this is still uncertain; there are no mean-motion resonances between the moons that could explain it, leading to the hypothesis that the moons occasionally pass through secondary resonances, which at some point in the past led to Miranda being locked for a time into a 3:1 resonance with Umbriel, before chaotic behaviour induced by the secondary resonances moved it out of it again. In the Uranian system, due to the planet's lesser degree of oblateness, and the larger relative size of its satellites, escape from a mean-motion resonance is much easier than for satellites of Jupiter or Saturn.</p>
+<h2><span id="Physical_characteristics">Physical characteristics</span></h2>
+
+<p>At 1.2 g/cm<sup>3</sup>, Miranda is the least dense of Uranus's round satellites. That density suggests a composition of more than 60% water ice. Miranda's surface may be mostly water ice, with the low-density body also probably containing silicate rock and organic compounds in its interior.</p>
+<p>Miranda's surface has patchwork regions of broken terrain indicating intense geological activity in Miranda's past, and is criss-crossed by huge canyons. It also has the largest known cliff in the Solar System, Verona Rupes, which has a drop-off of over 5 km (3.1 mi).</p>
+<p>There are three giant 'racetrack'-like grooved structures called coronae in the southern hemisphere, each at least 200 km (120 mi) wide and up to 20 km (12 mi) deep, named Arden, Elsinore and Inverness after locations in Shakespeare's plays, may have formed via extensional processes at the tops of diapirs, or upwellings of warm ice. It is believed through computer modelling that Miranda may have an additional corona on the unimaged hemisphere.</p>
+<p>The ridges probably represent extensional tilt blocks. The canyons probably represent graben formed by extensional faulting. Other features may be due to cryovolcanic eruptions of icy magma. The diapirs may have changed the density distribution within Miranda, which could have caused Miranda to reorient itself, similar to a process believed to have occurred at Saturn's geologically active moon Enceladus.</p>
+<p>Miranda's past geological activity is believed to have been driven by tidal heating during the time when it was in orbital resonance with Umbriel. The resonance would have increased orbital eccentricity; resulting tidal friction due to time-varying tidal forces from Uranus would have caused warming of Miranda's interior.</p>
+<p>Miranda may have also once been in a 5:3 resonance with Ariel, which would have also contributed to its internal heating. However, the maximum heating attributable to the resonance with Umbriel was likely about three times greater.</p>
+<p>An earlier theory, proposed shortly after the <i>Voyager 2</i> flyby, was that a previous incarnation of Miranda was shattered by a massive impact, with the fragments reassembling and denser ones subsequently sinking to produce the current strange pattern.</p>
+
+<p>Scientists recognize the following geological features on Miranda:</p>
+<ul><li>Craters</li>
+<li>Coronae (large ovoid features)</li>
+<li>Regiones (geological regions)</li>
+<li>Rupes (scarps)</li>
+<li>Sulci (parallel grooves)</li>
+</ul><h2><span id="Observation_and_exploration">Observation and exploration</span></h2>
+<p>Miranda's apparent magnitude is +16.6, making it invisible to many amateur telescopes. Virtually all known information regarding its geology and geography was obtained during the flyby of Uranus made by <i>Voyager 2</i> in 1986.</p>
+<h2><span id="See_also">See also</span></h2>
+<ul><li>List of geological features on Miranda</li>
+</ul>
+<h2><span id="References">References</span></h2>
+
+<h2><span id="External_links">External links</span></h2>
+<ul><li>Miranda Profile at NASA's Solar System Exploration site</li>
+<li>Miranda page at <i>The Nine Planets</i></li>
+<li>Miranda, a Moon of Uranus at <i>Views of the Solar System</i></li>
+<li>Paul Schenk's 3D images and flyover videos of Miranda and other outer solar system satellites</li>
+<li>Miranda Nomenclature from the USGS Planetary Nomenclature web site</li>
+</ul>

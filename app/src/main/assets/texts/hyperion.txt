@@ -1,0 +1,41 @@
+<p><b>Hyperion</b> (<span><span>/<span><span title="'h' in 'hi'">h</span><span title="/aɪ/ long 'i' in 'tide'">aɪ</span><span title="/ˈ/ primary stress follows">ˈ</span><span title="'p' in 'pie'">p</span><span title="/ɪər/ 'ear' in 'beard'">ɪər</span><span title="/i/ 'y' in 'happy'">i</span><span title="/ə/ 'a' in 'about'">ə</span><span title="'n' in 'no'">n</span></span>/</span></span>; Greek: <i>Ὑπερίων</i>), also known as <b>Saturn VII</b> (7), is a moon of Saturn discovered by William Cranch Bond, George Phillips Bond and William Lassell in 1848. It is distinguished by its irregular shape, its chaotic rotation, and its unexplained sponge-like appearance. It was the first non-round moon to be discovered.</p>
+<p></p>
+<h2><span id="Name">Name</span></h2>
+<p>The moon is named after Hyperion, the Titan god of watchfulness and observation – the elder brother of Cronus, the Greek equivalent of Saturn – in Greek mythology. It is also designated <b>Saturn VII</b>. The adjectival form of the name is <i>Hyperionian</i>.</p>
+<p>Hyperion's discovery came shortly after John Herschel had suggested names for the seven previously-known satellites of Saturn in his 1847 publication <i>Results of Astronomical Observations made at the Cape of Good Hope</i>. William Lassell, who saw Hyperion two days after William Bond, had already endorsed Herschel's naming scheme and suggested the name Hyperion in accordance with it. He also beat Bond to publication.</p>
+<h2><span id="Physical_characteristics">Physical characteristics</span></h2>
+<h3><span id="Shape">Shape</span></h3>
+<p>Hyperion is one of the largest bodies known to be highly irregularly shaped (non-ellipsoidal, i.e. not in hydrostatic equilibrium) in the Solar System. The only larger moon known to be irregular in shape is Neptune's moon Proteus. Hyperion has about 15% of the mass of Mimas, the least massive known ellipsoidal body. The largest crater on Hyperion is approximately 121.57 km (75.54 mi) in diameter and 10.2 km (6.3 mi) deep. A possible explanation for the irregular shape is that Hyperion is a fragment of a larger body that was broken up by a large impact in the distant past. A proto-Hyperion could have been 350–1,000 km (220–620 mi) in diameter. Over about 1,000 years, ejecta from a presumed Hyperion breakup would have impacted Titan at low speeds, building up volatiles in the atmosphere of Titan.</p>
+
+<h3><span id="Composition">Composition</span></h3>
+<p>Like most of Saturn's moons, Hyperion's low density indicates that it is composed largely of water ice with only a small amount of rock. It is thought that Hyperion may be similar to a loosely accreted pile of rubble in its physical composition. However, unlike most of Saturn's moons, Hyperion has a low albedo (0.2–0.3), indicating that it is covered by at least a thin layer of dark material. This may be material from Phoebe (which is much darker) that got past Iapetus. Hyperion is redder than Phoebe and closely matches the color of the dark material on Iapetus.</p>
+<p>Hyperion has a porosity of about 0.46.</p>
+<h3><span id="Surface_features">Surface features</span></h3>
+
+<p><i>Voyager 2</i> passed through the Saturn system but photographed Hyperion only from a distance. It discerned individual craters and an enormous ridge but was not able to make out the texture of the moon's surface. Early images from the <i>Cassini</i> orbiter suggested an unusual appearance, but it was not until <i>Cassini'</i>s first targeted flyby of Hyperion on 25 September 2005 that the moon's oddness was revealed in full.</p>
+<p>Hyperion's surface is covered with deep, sharp-edged craters that give it the appearance of a giant sponge. Dark material fills the bottom of each crater. The reddish substance contains long chains of carbon and hydrogen and appears very similar to material found on other Saturnian satellites, most notably Iapetus. Scientists attribute Hyperion's unusual, sponge-like appearance to the fact that it has an unusually low density for such a large object. Its low density makes Hyperion quite porous, with a weak surface gravity. These characteristics mean impactors tend to compress the surface, rather than excavating it, and most material that is blown off the surface never returns.</p>
+<p>The latest analyses of data obtained by <i>Cassini</i> during its flybys of Hyperion in 2005 and 2006 show that about 40 percent of it is empty space. It was suggested in July 2007 that this porosity allows craters to remain nearly unchanged over the eons. The new analyses also confirmed that Hyperion is composed mostly of water ice with very little rock.</p>
+<h2><span id="Rotation">Rotation</span></h2>
+
+<p>The <i>Voyager 2</i> images and subsequent ground-based photometry indicated that Hyperion's rotation is chaotic, that is, its axis of rotation wobbles so much that its orientation in space is unpredictable. Hyperion, together with Pluto's moons Nix and Hydra, is among only a few moons in the Solar System known to rotate chaotically, although it is expected to be common in binary asteroids. It is also the only regular planetary natural satellite in the Solar System known not to be tidally locked.</p>
+<p>Hyperion is unique among the large moons in that it is very irregularly shaped, has a fairly eccentric orbit, and is near a much larger moon, Titan. These factors combine to restrict the set of conditions under which a stable rotation is possible. The 3:4 orbital resonance between Titan and Hyperion may also make a chaotic rotation more likely. The fact that its rotation is not locked probably accounts for the relative uniformity of Hyperion's surface, in contrast to many of Saturn's other moons, which have contrasting trailing and leading hemispheres.</p>
+<h2><span id="Exploration">Exploration</span></h2>
+<p>Hyperion has been imaged several times from moderate distances by the <i>Cassini</i> orbiter. The first close targeted flyby occurred at a distance of 500 km (310 mi) on 26 September 2005. <i>Cassini</i> made another two close approaches to Hyperion on 25 August 2011 and on 16 September 2011, when it passed at 58,000 km (36,000 mi). <i>Cassini'</i>s latest flyby was on 31 May 2015 at a distance of about 34,000 km (21,000 mi).</p>
+
+
+<h2><span id="See_also">See also</span></h2>
+<ul><li>Hyperion in fiction</li>
+</ul><h2><span id="Notes">Notes</span></h2>
+
+<h2><span id="References">References</span></h2>
+
+<h2><span id="External_links">External links</span></h2>
+
+<ul><li>Cassini mission Hyperion page</li>
+<li>Hyperion Profile at NASA's Solar System Exploration site</li>
+<li>The Planetary Society: Hyperion</li>
+<li>NASA: Saturn's Hyperion, A Moon With Odd Craters</li>
+<li>Cassini images of Hyperion</li>
+<li>Images of Hyperion at JPL's Planetary Photojournal</li>
+<li>Hyperion nomenclature from the USGS planetary nomenclature page</li>
+</ul>

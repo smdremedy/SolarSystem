@@ -1,0 +1,63 @@
+<p><b>Dione</b> (<span><span>/<span><span title="'d' in 'dye'">d</span><span title="/aɪ/ long 'i' in 'tide'">aɪ</span><span title="/ˈ/ primary stress follows">ˈ</span><span title="/oʊ/ long 'o' in 'code'">oʊ</span><span title="'n' in 'no'">n</span><span title="/i/ 'y' in 'happy'">i</span></span>/</span></span>; Greek: <span lang="grc">Διώνη</span>) is a moon of Saturn. It was discovered by Italian astronomer Giovanni Domenico Cassini in 1684. It is named after the Titaness Dione of Greek mythology. It is also designated <b>Saturn IV</b>.</p>
+<p></p>
+<h2><span id="Name">Name</span></h2>
+<p>Giovanni Domenico Cassini named the four moons he discovered (Tethys, Dione, Rhea and Iapetus) <i>Sidera Lodoicea</i> ("the stars of Louis") to honor king Louis XIV. Cassini found Dione in 1684 using a large aerial telescope he set up on the grounds of the Paris Observatory. The satellites of Saturn were not named until 1847, when William Herschel's son John Herschel published <i>Results of Astronomical Observations made at the Cape of Good Hope,</i> suggesting that the names of the Titans (sisters and brothers of Cronus) be used.</p>
+<h2><span id="Orbit">Orbit</span></h2>
+<p>Dione orbits Saturn with a semimajor axis about 2% less than that of the Moon. However, reflecting Saturn's greater mass, Dione's orbital period is one tenth that of the Moon. Dione is currently in a 1:2 mean-motion orbital resonance with moon Enceladus, completing one orbit of Saturn for every two orbits completed by Enceladus. This resonance maintains Enceladus's orbital eccentricity (0.0047), providing a source of heat for Enceladus's extensive geological activity, which shows up most dramatically in its cryovolcanic geyser-like jets.</p>
+<p>Dione has two co-orbital, or trojan, moons, Helene and Polydeuces. They are located within Dione's Lagrangian points L<sub>4</sub> and L<sub>5</sub>, 60 degrees ahead of and behind Dione respectively.</p>
+<h2><span id="Physical_characteristics">Physical characteristics</span></h2>
+
+
+<p>At <span>1<span>122</span></span> km (697 mi) in diameter, Dione is the 15th largest moon in the Solar System, and is more massive than all known moons smaller than itself combined. About two thirds of Dione's mass is water ice, and the remaining is a dense core, probably silicate rock.</p>
+<p>Though somewhat smaller and denser, Dione is otherwise very similar to Rhea. They both have similar albedo features and varied terrain, and both have dissimilar leading and trailing hemispheres. Dione's leading hemisphere is heavily cratered and is uniformly bright. Its trailing hemisphere, however, contains an unusual and distinctive surface feature: a network of bright ice cliffs.</p>
+<p>Scientists recognise Dionean geological features of the following types:</p>
+<ul><li>Chasmata (chasms; long, deep, steep-sided depressions)</li>
+<li>Dorsa (ridges)</li>
+<li>Fossae (long narrow depressions)</li>
+<li>Craters</li>
+<li>Catenae (crater chains)</li>
+</ul><h3><span id="The_ice_cliffs_.28formerly_.27wispy_terrain.27.29">The ice cliffs (formerly 'wispy terrain')</span></h3>
+
+<p>When the <i>Voyager</i> space probe photographed Dione in 1980, it showed what appeared to be wispy features covering its trailing hemisphere. The origin of these features was mysterious, because all that was known was that the material has a high albedo and is thin enough that it does not obscure the surface features underneath. One hypothesis was that shortly after its formation Dione was geologically active, and some process such as cryovolcanism resurfaced much of its surface, with the streaks forming from eruptions along cracks in Dione's surface that fell back to the surface as snow or ash. Later, after the internal activity and resurfacing ceased, cratering continued primarily on the leading hemisphere and wiped out the streak patterns there.</p>
+<p>This hypothesis was proven wrong by the <i>Cassini</i> probe flyby of December 13, 2004, which produced close-up images. These revealed that the 'wisps' were, in fact, not ice deposits at all, but rather bright ice cliffs created by tectonic fractures (<i>chasmata</i>). Dione has been revealed as a world riven by enormous fractures on its trailing hemisphere.</p>
+<p>The <i>Cassini</i> orbiter performed a closer flyby of Dione at 500 km (310 mi) on October 11, 2005, and captured oblique images of the cliffs, showing that some of them are several hundred metres high.</p>
+<h3><span id="Craters">Craters</span></h3>
+
+<p>Dione's icy surface includes heavily cratered terrain, moderately cratered plains, lightly cratered plains, and areas of tectonic fractures. The heavily cratered terrain has numerous craters greater than 100 kilometres (62 mi) in diameter. The plains areas tend to have craters less than 30 kilometres (19 mi) in diameter. Some of the plains are more heavily cratered than others. Much of the heavily cratered terrain is located on the trailing hemisphere, with the less cratered plains areas present on the leading hemisphere. This is the opposite of what some scientists expected; Shoemaker and Wolfe proposed a cratering model for a tidally locked satellite with the highest cratering rates on the leading hemisphere and the lowest on the trailing hemisphere. This suggests that during the period of heavy bombardment, Dione was tidally locked to Saturn in the opposite orientation. Because Dione is relatively small, an impact causing a 35 kilometer crater could have spun the satellite. Because there are many craters larger than 35 kilometres (22 mi), Dione could have been repeatedly spun during its early heavy bombardment. The pattern of cratering since then and the bright albedo of the leading side suggests that Dione has remained in its current orientation for several billion years.</p>
+<p>Like Callisto, Dione's craters lack the high-relief features seen on the Moon and Mercury; this is probably due to slumping of the weak icy crust over geologic time.</p>
+<h2><span id="Atmosphere">Atmosphere</span></h2>
+
+<p>On April 7, 2010, instruments on board the unmanned <i>Cassini</i> probe, which flew by Dione, detected a thin layer of molecular oxygen ions (<span>O<span>+<br>
+2</span></span>) around Dione, so thin that scientists prefer to call it an exosphere rather than a tenuous atmosphere. The density of molecular oxygen ions determined from the <i>Cassini</i> plasma spectrometer data ranges from 0.01 to 0.09 per cm<sup>3</sup>.</p>
+<p>The <i>Cassini</i> probe instruments were unable to directly detect water from the exosphere due to high background levels, but it seems that highly charged particles from the planet's powerful radiation belts could split the water in the ice into hydrogen and oxygen.</p>
+<h2><span id="Exploration">Exploration</span></h2>
+
+<p>Dione was first imaged by the <i>Voyager</i> space probes. It has also been probed five times from close distances by the <i>Cassini</i> orbiter. There was a close targeted flyby, at a distance of 500 km (310 mi) on 11 October 2005; another flyby was performed on 7 April 2010 also at a distance of 500 km. A third flyby was performed on 12 December 2011 at an distance of 99 km (62 mi). The following flyby was on 16 June 2015 at a distance of 516 km (321 mi), and the last <i>Cassini</i> flyby was performed on 17 August 2015 at a distance of 474 km (295 mi).</p>
+<p>In May 2013, NASA's spacecraft <i>Cassini</i> provided scientists with new evidence that Dione could be more active than previously predicted. It is thought that Dione could be a fossil of the activity that <i>Cassini</i> previously discovered spraying from Enceladus, another moon of Saturn. Using stereo-generated topography images, some NASA teams suspect certain flexures across a prominent ridge on the leading hemisphere that would only be possible if there was a subsurface liquid ocean. This is derived from observations and models of the mountain Janiculum Dorsa. This mountain has a height of 1 to 2 km (0.6 to 1.2 miles). Dione's crust seems to pucker 0.5 km (0.3 miles) under the mountain, suggesting that the icy crust was warm when the ridge formed, and the best way to get that heat is if Dione had a subsurface ocean. Dione also gets heated by tidal heating as it gets closer to and farther from Saturn in its orbit.</p>
+
+<h2><span id="Gallery">Gallery</span></h2>
+<center>
+
+
+
+</center>
+
+<h2><span id="See_also">See also</span></h2>
+<ul><li>Dione in fiction</li>
+<li>Former classification of planets</li>
+<li>The moon Helene, orbiting in Dione's leading Lagrangian point, L<sub>4</sub></li>
+<li>The moon Polydeuces, orbiting in Dione's trailing Lagrangian point, L<sub>5</sub></li>
+</ul><h2><span id="References">References</span></h2>
+
+<h2><span id="External_links">External links</span></h2>
+
+<ul><li>Dione Profile at NASA's Solar System Exploration site</li>
+<li>The Planetary Society: Dione</li>
+<li>NASA probe video of approach to Dione</li>
+<li>Cassini images of Dione</li>
+<li>Images of Dione at JPL's Planetary Photojournal</li>
+<li>3D shape model of Dione (requires WebGL)</li>
+<li>Dione global and polar basemaps (December 2011) from Cassini images</li>
+<li>Dione atlas (Sept. 2011) from Cassini images</li>
+<li>Dione nomenclature and Dione map with feature names from the USGS planetary nomenclature page</li>
+</ul>

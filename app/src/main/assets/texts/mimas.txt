@@ -1,0 +1,76 @@
+<p><b>Mimas</b> is a moon of Saturn which was discovered in 1789 by William Herschel. It is named after Mimas, a son of Gaia in Greek mythology, and is also designated <b>Saturn I</b>.</p>
+<p>With a diameter of 396 kilometres (246 mi) it is the smallest astronomical body that is known to be rounded in shape because of self-gravitation.</p>
+<p></p>
+<h2><span id="Discovery">Discovery</span></h2>
+<p>Mimas was discovered by the astronomer William Herschel on 17 September 1789. He recorded his discovery as follows: "The great light of my forty-foot telescope was so useful that on the 17th of September, 1789, I remarked the seventh satellite, then situated at its greatest western elongation."</p>
+<h3><span id="Name">Name</span></h3>
+<p>Mimas is named after one of the Giants in Greek mythology, Mimas. The names of all seven then-known satellites of Saturn, including Mimas, were suggested by William Herschel's son John in his 1847 publication <i>Results of Astronomical Observations made at the Cape of Good Hope</i>. He named them after Titans specifically because Saturn (the Roman equivalent of Cronus in Greek mythology), was the leader of the Titans and ruler of the world for some time.</p>
+<p>The adjectival form of Mimas is <i>Mimantean</i> or <i>Mimantian.</i></p>
+<h2><span id="Physical_characteristics">Physical characteristics</span></h2>
+
+
+<p>The surface area of Mimas is slightly less than the land area of Spain. The low density of Mimas, 1.15 g/cm³, indicates that it is composed mostly of water ice with only a small amount of rock. Due to the tidal forces acting on it, Mimas is noticeably prolate; its longest axis is about 10% longer than the shortest. The ellipsoidal shape of Mimas is especially noticeable in some recent images from the <i>Cassini</i> probe.</p>
+<p>Mimas's most distinctive feature is a giant impact crater 130 kilometres (81 mi) across, named Herschel after the discoverer of Mimas. Herschel's diameter is almost a third of Mimas's own diameter; its walls are approximately 5 kilometres (3.1 mi) high, parts of its floor measure 10 kilometres (6.2 mi) deep, and its central peak rises 6 kilometres (3.7 mi) above the crater floor. If there were a crater of an equivalent scale on Earth (in relative size) it would be over 4,000 kilometres (2,500 mi) in diameter, wider than Australia. The impact that made this crater must have nearly shattered Mimas: fractures can be seen on the opposite side of Mimas that may have been created by shock waves from the impact travelling through Mimas's body.</p>
+<p>The Mimantean surface is saturated with smaller impact craters, but no others are anywhere near the size of Herschel. Although Mimas is heavily cratered, the cratering is not uniform. Most of the surface is covered with craters larger than 40 kilometres (25 mi) in diameter, but in the south polar region, there are generally no craters larger than 20 kilometres (12 mi) in diameter.</p>
+<p>Three types of geological features are officially recognized on Mimas: craters, chasmata (chasms) and catenae (crater chains).</p>
+<center>
+
+
+
+</center>
+<h2><span id="Orbital_resonances">Orbital resonances</span></h2>
+<p>A number of features in Saturn's rings are related to resonances with Mimas. Mimas is responsible for clearing the material from the Cassini Division, the gap between Saturn's two widest rings, the A Ring and B Ring. Particles in the Huygens Gap at the inner edge of the Cassini division are in a 2:1 resonance with Mimas. They orbit twice for each orbit of Mimas. The repeated pulls by Mimas on the Cassini division particles, always in the same direction in space, force them into new orbits outside the gap. The boundary between the C and B ring is in a 3:1 resonance with Mimas. Recently, the G Ring was found to be in a 7:6 co-rotation eccentricity resonance with Mimas; the ring's inner edge is about 15,000 kilometres (9,300 mi) inside Mimas's orbit.</p>
+<p>Mimas is also in a 2:1 mean-motion resonance with the larger moon Tethys, and in a 2:3 resonance with the outer F Ring shepherd moonlet, Pandora.</p>
+<h2><span id="Exploration">Exploration</span></h2>
+<p>Pioneer 11 flew by Saturn in 1979, and its closest approach to Mimas was 104,263 km on September 1, 1979. Voyager 1 flew by in 1980, and Voyager 2 in 1981.</p>
+<p>Mimas has been imaged several times by the <i>Cassini</i> orbiter, which entered into orbit around Saturn in 2004. A close flyby occurred on February 13, 2010, when <i>Cassini</i> passed by Mimas at 9,500 km (5,900 mi).</p>
+<h2><span id="In_popular_culture">In popular culture</span></h2>
+<p>When seen from certain angles, Mimas resembles the Death Star, a fictional space station known from the film <i>Star Wars Episode IV: A New Hope</i>, which is said to be roughly 140 kilometres in diameter. Herschel resembles the concave disc of the Death Star's "superlaser". This is coincidental, as the film was made nearly three years before Mimas was resolved well enough to see the crater.</p>
+<p>In 2010, NASA revealed a temperature map of Mimas, using images obtained by <i>Cassini</i>. The warmest regions, which are along one edge of Mimas, create a shape similar to the video game character Pac-Man, with Herschel Crater assuming the role of an "edible dot" or "power pellet" known from Pac-Man gameplay.</p>
+<h2><span id="Gallery">Gallery</span></h2>
+<ul class="gallery mw-gallery-traditional center"><li class="gallerybox" style="width: 155px">
+
+</li>
+<li class="gallerybox" style="width: 155px">
+
+</li>
+<li class="gallerybox" style="width: 155px">
+
+</li>
+<li class="gallerybox" style="width: 155px">
+
+</li>
+<li class="gallerybox" style="width: 155px">
+
+</li>
+<li class="gallerybox" style="width: 155px">
+
+</li>
+<li class="gallerybox" style="width: 155px">
+
+</li>
+<li class="gallerybox" style="width: 155px">
+
+</li>
+</ul><h2><span id="See_also">See also</span></h2>
+
+<ul><li>List of natural satellites</li>
+<li>Mimas in fiction</li>
+</ul><h2><span id="References">References</span></h2>
+
+<h2><span id="External_links">External links</span></h2>
+
+<ul><li>Cassini mission page – Mimas</li>
+<li>Mimas Profile at NASA's Solar System Exploration site</li>
+<li>The Planetary Society: Mimas</li>
+<li>Mimas page at <i>The Nine Planets</i></li>
+<li>Views of the Solar System – Mimas</li>
+<li>Cassini images of Mimas</li>
+<li>Images of Mimas at JPL's Planetary Photojournal</li>
+<li>3D shape model of Mimas (requires WebGL)</li>
+<li>Paul Schenk's Mimas blog entry and movie of Mimas's rotation on YouTube</li>
+<li>Mimas global and polar basemaps (June 2012) from Cassini images</li>
+<li>Mimas atlas (July 2010) from Cassini images</li>
+<li>Mimas nomenclature and Mimas map with feature names from the USGS planetary nomenclature page</li>
+<li>Figure "J" is Mimas transiting Saturn in 1979, imaged by Pioneer 11 from here</li>
+</ul>
