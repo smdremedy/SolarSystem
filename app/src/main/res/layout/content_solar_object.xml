@@ -20,33 +20,18 @@
             android:layout_margin="@dimen/text_margin"
             android:text="Moons" />
 
-        <com.soldiersofmobile.solarsystem.ScrollThroughRecyclerView
+        <android.support.v7.widget.RecyclerView
             android:id="@+id/moonsRecycleView"
-
-            app:layout_behavior="@string/appbar_scrolling_view_behavior"
             android:layout_width="match_parent"
             android:layout_height="220dp"
-            />
+            app:layout_behavior="@string/appbar_scrolling_view_behavior" />
 
 
         <TextView
             android:id="@+id/detailsTextView"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_margin="@dimen/text_margin"
-            />
-
-
-
-        <!--<LinearLayout-->
-            <!--android:layout_width="match_parent"-->
-            <!--android:layout_height="wrap_content"-->
-
-            <!--android:orientation="horizontal">-->
-
-
-        <!--</LinearLayout>-->
-
+            android:layout_margin="@dimen/text_margin" />
 
     </LinearLayout>
 
